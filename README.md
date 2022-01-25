@@ -1,16 +1,16 @@
-### Hi there 👋
+# ¡Hi! I am Isai Jesús. 🐷
 
-<!--
-**IsaiJesus/IsaiJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior fronted developer, I'm constantly learning new technologies.
 
-Here are some ideas to get you started:
+## Find me here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Twitter 🐦](https://twitter.com/isaijesus02)
+- [Instagram 📷](https://www.instagram.com/isaijesus23/)
+
+## About me.
+
+## I'm a young man interested in everything:
+
+- I'm interested in web development, mobile development, blockchain. 🧠
+- I love sports, I play soccer, basketball and I go to the gym. 🦾
+- I like all types of music, I like play videogames, I like to draw. 🎮
