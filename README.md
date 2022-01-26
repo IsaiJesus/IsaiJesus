@@ -7,23 +7,6 @@ I'm a junior fronted developer, I'm constantly learning new technologies.
 - [Twitter 🐦](https://twitter.com/isaijesus02)
 - [Instagram 📷](https://www.instagram.com/isaijesus23/)
 
-## I know:
-
-- C 
-- C++
-- HTML
-- CSS
-- MySQL
-- PHP
-- Javascript
-- React JS
-- NEXT JS
-- Bootstrap
-- Tailwind
-- SASS
-- API REST
-- Axios
-
 ## About me:
 
 - I'm interested in web development, mobile development, blockchain. 🧠
