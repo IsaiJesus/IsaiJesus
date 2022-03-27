@@ -1,6 +1,6 @@
 # ¡Hi! I am Isai Jesús. 🐷
 
-I'm a junior fronted developer, I'm constantly learning new technologies.
+I'm a junior front-end developer, I'm constantly learning new technologies.
 
 ## Find me here:
 
