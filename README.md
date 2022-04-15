@@ -1,19 +1,19 @@
-<h1 align="center">¡Hi!, I am Isai Jesús.</h1>
+<h1 align="center">¡Hi!, I am Isai Jesús. 🐷</h1>
 
-<h3 align="center">I'm a junior front-end developer, I'm constantly learning new technologies.</h3>
+<h2 align="center">I'm a junior front-end developer, I'm constantly learning new technologies.</h2>
 
-<h3 align="left">Find me here:</h3>
+<h3 align="center">Find me here:</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/isaijesus02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isaijesus02" height="30" width="40" /></a>
 <a href="https://instagram.com/isaijesus23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaijesus23" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Achive</h3>
-<p>- I won a computer science medal at the state level. 🏅</p>
+<h3 align="left">Achievements:</h3>
+<p align="left">- I won a computer science medal at the state level. 🏅</p>
 
-<h3>About me:</h3>
-<p>
+<h3 align="left">About me:</h3>
+<p align="left">
   - I'm interested in web development, mobile development, blockchain. 🧠</br>
   - I love sports, I play soccer, basketball and I go to the gym. 🦾</br>
   - I like all types of music, I like play videogames, I like to draw. 🎮
