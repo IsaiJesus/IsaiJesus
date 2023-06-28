@@ -6,7 +6,7 @@
 
 <p align="center"  style="fontSize: 20px;">
   <a href="https://isaijesus.netlify.app/" target="_blank">
-    <img align="center" src="https://isaijesus.netlify.app/img/aztec.png" alt="Isai Jesús" height="100" width="100" />
+    <img align="center" src="https://isaijesus.netlify.app/img/aztec.webp" alt="Isai Jesús" height="100" width="100" />
   </a>
 </p>
 
