@@ -5,7 +5,7 @@
 <h3 align="center">This is my portfolio:</h3>
 
 <p align="center"  style="fontSize: 20px;">
-  <a href="https://isaijesus.netlify.app/" target="blank">
+  <a href="https://isaijesus.netlify.app/" target="_blank">
     <img align="center" src="https://isaijesus.netlify.app/img/aztec.png" alt="Isai Jesús" height="100" width="100" />
   </a>
 </p>
@@ -18,7 +18,11 @@
 </p>
 
 <h3 align="center">Achievements:</h3>
-<p align="center">- I won a computer science medal at the state level. 🏅</p>
+<p align="center">- I won a computer science medal at the state level called OMRI. 🏅</p>
+<p align="center">- I won the third place in a hackathon at my school. 🏫</p>
+<p align="center">- I participated in Coding Cup TECNM 2022 & 2023. 🏅</p>
+<p align="center">- I participated in techstars_ Startup Weekend Morelos. 🏫</p>
+
 
 <h3 align="center">About me:</h3>
 <p align="center">
