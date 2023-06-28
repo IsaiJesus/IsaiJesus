@@ -20,8 +20,8 @@
 <h3 align="center">Achievements:</h3>
 <p align="center">- I won a computer science medal at the state level called OMRI. 🏅</p>
 <p align="center">- I won the third place in a hackathon at my school. 🏫</p>
-<p align="center">- I participated in Coding Cup TECNM 2022 & 2023. 🏅</p>
-<p align="center">- I participated in techstars_ Startup Weekend Morelos. 🏫</p>
+<p align="center">- I participated in Coding Cup TECNM 2022 & 2023. 🏁</p>
+<p align="center">- I participated in techstars_ Startup Weekend Morelos. 📆</p>
 
 
 <h3 align="center">About me:</h3>
