@@ -10,6 +10,14 @@
   </a>
 </p>
 
+<h3 align="center">This is my blog:</h3>
+
+<p align="center"  style="fontSize: 20px;">
+  <a href="https://your-tools.netlify.app/" target="_blank">
+    <img align="center" src="https://your-tools.netlify.app/img/tools.webp" alt="Blog Isai Jesús" height="100" width="100" />
+  </a>
+</p>
+
 <h3 align="center">Find me here:</h3>
 
 <p align="center">
