@@ -1,12 +1,12 @@
-<h1 align="center">¡Hi!, I am Isai Jesús. 🐷</h1>
+<h1 align="center">Hi, I am Isai Jesús. 🐷</h1>
 
 <h2 align="center">I'm a junior front-end developer, I'm constantly learning new technologies.</h2>
 
 <h3 align="center">This is my portfolio:</h3>
 
 <p align="center"  style="fontSize: 20px;">
-  <a href="https://isaijesus.netlify.app/" target="_blank">
-    <img align="center" src="https://isaijesus.netlify.app/img/avatar.webp" alt="Isai Jesús" height="100" width="100" />
+  <a href="[https://isaijesus.netlify.app/](https://isaijesus.study/)" target="_blank">
+    <img align="center" src="https://isaijesus.study/img/avatar.webp" alt="Isai Jesús Portfolio" height="100" width="100" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 <p align="center"  style="fontSize: 20px;">
   <a href="https://your-tools.netlify.app/" target="_blank">
-    <img align="center" src="https://your-tools.netlify.app/img/tools.webp" alt="Blog Isai Jesús" height="100" width="100" />
+    <img align="center" src="https://your-tools.netlify.app/img/tools.webp" alt="Isai Jesús Blog" height="100" width="100" />
   </a>
 </p>
 
