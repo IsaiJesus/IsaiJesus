@@ -1,4 +1,6 @@
-<h1 align="center">¡Hi!, I am Isai Jesús. 🐷</h1>
+<div align="center">
+  <h1>¡Hi!, I am Isai Jesús. 🐷</h1>
+</div>
 <h2 align="center">I'm a junior front-end developer, I'm constantly learning new technologies.</h2>
 
 <h3 align="center">This is my portfolio:</h3>
