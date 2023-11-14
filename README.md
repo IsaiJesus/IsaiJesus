@@ -19,7 +19,7 @@
 
 <h3 align="center">Find me here:</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/isai-jesus-tapia-0a9b88237" target="_blank">
+  <a href="https://www.linkedin.com/in/isai-jesus/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isai-jesus-tapia-0a9b88237" height="30" width="40" />
   </a>
   <a href="https://instagram.com/isaijesus23" target="_blank">
