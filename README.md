@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>¡Hi!, I am Isai Jesús. 🐷</h1>
+  <h1>¡Hi!, I am Isai Jesús. 🥸</h1>
 </div>
-<h2 align="center">I'm a junior front-end developer, I'm constantly learning new technologies.</h2>
+<h2 align="center">I'm a Frontend Web Developer and I'm learning about Data Science.</h2>
 
 <h3 align="center">This is my portfolio:</h3>
 <div align="center">
@@ -22,16 +22,17 @@
   <a href="https://www.linkedin.com/in/isai-jesus/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isai-jesus-tapia-0a9b88237" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/isaijesus23" target="_blank">
+  <a href="https://instagram.com/isaijesus23/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaijesus23" height="30" width="40" />
   </a>
 </div>
 
 <h3 align="center">Achievements:</h3>
-<p align="center">- I won a computer science medal at the state level called OMRI. 🏅</p>
-<p align="center">- I won the third place in a hackathon at my school. 🏫</p>
-<p align="center">- I participated in Coding Cup TECNM 2022 & 2023. 🏁</p>
-<p align="center">- I participated in techstars_ Startup Weekend Morelos. 📆</p>
+<p align="center">- Advanced from the regional to the national phase in the InnovaTecNM competition. 🏆</p>
+<p align="center">- Advanced from the regional to the national phase of the ICPC. 🧠</p>
+<p align="center">- Participated in CodingCup TECNM 2022 & 2023, winning the third place where 551 teams from 81 institutes participated. 🏁</p>
+<p align="center">- Won a bronze medal in a state programming contest called OMRI. 👾</p>
+<p align="center">- Participated in techstars_ Startup Weekend Morelos, Hackathon Morelos 2023. 🧐</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
