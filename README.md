@@ -5,8 +5,8 @@
 
 <h3 align="center">This is my portfolio:</h3>
 <div align="center">
-  <a href="https://isaijesus.study/" target="_blank">
-    <img src="https://isaijesus.study/img/avatar.webp" alt="Isai Jesús Portfolio" height="100" width="100"/>
+  <a href="https://isaijesus.com/" target="_blank">
+    <img src="https://isaijesus.com/img/avatar.webp" alt="Isai Jesús Portfolio" height="100" width="100"/>
   </a>
 </div>
 
@@ -21,9 +21,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/isai-jesus/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isai-jesus-tapia-0a9b88237" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/isaijesus23/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaijesus23" height="30" width="40" />
   </a>
 </div>
 
